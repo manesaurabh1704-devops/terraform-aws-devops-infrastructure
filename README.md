@@ -218,6 +218,11 @@ Then **Auto Scaling Group launches new EC2 instance automatically**
 
 ![CloudWatch](screenshots/cloudwatch.png)
 
+
+## Terraform Plan Output
+
+![Terraform Plan](screenshots/terraform-plan.png)
+
 ---
 
 # Destroy Infrastructure
