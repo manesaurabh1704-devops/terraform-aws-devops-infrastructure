@@ -5,13 +5,7 @@ This project demonstrates how to deploy a scalable and highly available infrastr
 
 ---
 
-# Architecture Diagram
 
-The infrastructure follows a production-style architecture with load balancing and auto scaling.
-
-![Architecture](architecture/aws-architecture.png)
-
----
 
 # Project Overview
 
